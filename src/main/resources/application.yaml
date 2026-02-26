@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ehr
+  port: 8080
+
+ehr:
+  data-url: "https://www.healthit.gov/data/open-api?source=Meaningful-Use-Acceleration-Scorecard.csv&format=csv"
